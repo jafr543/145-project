@@ -38,7 +38,7 @@ for(int i=0;i<arrlength;i++)
 
 
     int main(){
-
+   srand((unsigned)time(NULL));
 int arri[100],arrlength=0;
 
 fillarya(arri,arrlength);
